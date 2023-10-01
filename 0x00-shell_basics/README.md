@@ -1,1 +1,1 @@
-this is the project directory
+this is read me file for shell permission project
